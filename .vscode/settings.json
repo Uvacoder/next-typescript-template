@@ -1,0 +1,10 @@
+{
+  "css.validate": false,
+  "editor.codeActionsOnSave": [
+    "source.addMissingImports",
+    "source.organizeImports",
+    "source.fixAll.stylelint",
+    "source.fixAll.eslint"
+  ],
+  "editor.formatOnSave": true
+}
